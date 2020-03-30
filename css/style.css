@@ -194,7 +194,7 @@ svg {
 
    
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width:400px){
     svg{
         margin-top: -300px;
         margin-left: 20px;
